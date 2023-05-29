@@ -2,7 +2,7 @@
 Proyecto de desarrollo de un ERP web con Java (Spring Boot) y bases de datos relacionales MySQL, este proyecto trata la gestión de la bolsa de trabajo del instituto Nicolau Copernic.
 
 ### Link a la Memoria
-Éste link te dará toda la información sobre la información además de la documentación ésta, explicando el proceso seguido de desarrollo del proyecto, señalando también las herramientas utilizadas, los inconvenientes encontrados y mucho más.
+Éste link te dará toda la información sobre el proyecto además de la documentación ésta, explicando el proceso seguido de desarrollo del proyecto, señalando también las herramientas utilizadas, los inconvenientes encontrados y mucho más.
 </br>
 https://docs.google.com/document/d/1WEisI_j-QCjkAAnDy76C-Mo7yT-8lwrEE1nb-mrFuDI/edit?usp=sharing
 
